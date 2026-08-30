@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Web Developer**
 
-I'm passionate about building modern, user-focused web applications and continuously improving my development skills.
+I'm a Full-Stack Web Developer focused on building responsive, user-focused web applications. I enjoy solving programming problems, learning new technologies, and turning ideas into practical projects.
 
 ## 🛠️ Tech Stack
 
@@ -11,45 +11,75 @@ I'm passionate about building modern, user-focused web applications and continuo
 * HTML
 * CSS
 * JavaScript
-  
+
+### Backend
+
+* Python
+* Django
+
 ### Database
 
 * SQL
 
-### Programming Languages
+### Tools
 
-* JavaScript
-* Python
+* Git
+* GitHub
+
+## 🚀 Featured Projects
+
+### 🌌 Celestial Bodies Database
+
+A relational database project demonstrating database design, SQL queries, and data management.
+
+🔗 [View Project](https://github.com/Yasmin3laa/celestial-bodies-database)
+
+### 📚 Trainings
+
+A collection of my technical training, coursework, assignments, exercises, projects, and learning progress.
+
+🔗 [View Repository](https://github.com/Yasmin3laa/trainings)
 
 ## 🧠 Problem Solving
 
-I regularly practice Data Structures & Algorithms and problem-solving to improve my programming and analytical skills.
+I regularly practice **Data Structures, Algorithms, and Problem Solving** to improve my programming, logical thinking, and analytical skills.
+
+* Data Structures
+* Algorithms
+* Python Problem Solving
+* JavaScript Problem Solving
 
 ## 🎓 Training & Learning
 
-Currently developing my skills through practical training, projects, and technical learning.
+### ITI — Web Development
 
-* ITI — Web Development
-* NTI — Full-Stack
+Developing practical web development skills through technical training, assignments, and projects.
+
+### NTI — Full-Stack Development
+
+Building knowledge and practical experience across frontend, backend, databases, and web development.
 
 ## 🚀 Currently
 
 * 🌱 Improving my Full-Stack Web Development skills
 * 💻 Building practical web projects
-* 📚 Strengthening my JavaScript, React, Python, and SQL knowledge
-* 🔧 Learning better Git & GitHub workflows
+* 📚 Strengthening my JavaScript, React, Python, Django, and SQL knowledge
+* 🧠 Practicing Data Structures & Algorithms
+* 🔧 Improving my Git & GitHub workflow
 
 ## 🎯 Goals
 
 * Build production-quality Full-Stack applications
-* Improve backend and API development
+* Strengthen backend and API development skills
+* Improve database design and development
 * Learn modern development tools and workflows
-* Build projects that solve real problems
+* Build projects that solve real-world problems
+* Continuously improve my problem-solving skills
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: **www.linkedin.com/in/yasmine-3laa**
-* 🌐 Portfolio: **Coming soon**
+* 💼 [LinkedIn](https://www.linkedin.com/in/yasmine-3laa)
+* 🌐 **Portfolio — Coming Soon**
 
 ---
 
