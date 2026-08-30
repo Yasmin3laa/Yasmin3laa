@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Yasmin 👋
 
-<!--
-**Yasmin3laa/Yasmin3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Web Developer**
 
-Here are some ideas to get you started:
+I'm passionate about building modern, user-focused web applications and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+  
+### Database
+
+* SQL
+
+### Programming Languages
+
+* JavaScript
+* Python
+
+## 🚀 Currently
+
+* 🌱 Improving my Full-Stack Web Development skills
+* 💻 Building practical web projects
+* 📚 Strengthening my JavaScript, React, Python, and SQL knowledge
+* 🔧 Learning better Git & GitHub workflows
+
+## 🎯 Goals
+
+* Build production-quality Full-Stack applications
+* Improve backend and API development
+* Learn modern development tools and workflows
+* Build projects that solve real problems
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: **www.linkedin.com/in/yasmine-3laa**
+* 🌐 Portfolio: **Coming soon**
+
+---
+
+⭐ Thanks for visiting my profile!
