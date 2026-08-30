@@ -21,6 +21,17 @@ I'm passionate about building modern, user-focused web applications and continuo
 * JavaScript
 * Python
 
+## 🧠 Problem Solving
+
+I regularly practice Data Structures & Algorithms and problem-solving to improve my programming and analytical skills.
+
+## 🎓 Training & Learning
+
+Currently developing my skills through practical training, projects, and technical learning.
+
+* ITI — Web Development
+* NTI — Full-Stack
+
 ## 🚀 Currently
 
 * 🌱 Improving my Full-Stack Web Development skills
