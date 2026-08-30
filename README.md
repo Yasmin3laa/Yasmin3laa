@@ -1,4 +1,4 @@
-# Hi, I'm Yasmin 👋
+# Hi, I'm Yasmine 👋
 
 💻 **Full-Stack Web Developer**
 
