@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Web Developer**
 
-I'm a Full-Stack Web Developer focused on building responsive, user-focused web applications. I enjoy solving programming problems, learning new technologies, and turning ideas into practical projects.
+I'm a Full-Stack Web Developer passionate about building responsive, user-focused web applications and solving real-world problems through code. I enjoy learning new technologies, strengthening my problem-solving skills, and turning ideas into practical projects.
 
 ## 🛠️ Tech Stack
 
@@ -14,14 +14,15 @@ I'm a Full-Stack Web Developer focused on building responsive, user-focused web 
 
 ### Backend
 
-* Python
-* Django
+* PHP
+* Laravel
 
 ### Database
 
-* SQL
+* mySQL
+* Relational Database Design
 
-### Tools
+### Tools & Technologies
 
 * Git
 * GitHub
@@ -30,57 +31,59 @@ I'm a Full-Stack Web Developer focused on building responsive, user-focused web 
 
 ### 🌌 Celestial Bodies Database
 
-A relational database project demonstrating database design, SQL queries, and data management.
+A relational database project demonstrating database design, SQL queries, relational data management, and database concepts.
 
-🔗 [View Project](https://github.com/Yasmin3laa/celestial-bodies-database)
 
 ### 📚 Trainings
 
-A collection of my technical training, coursework, assignments, exercises, projects, and learning progress.
+A collection of my technical training, coursework, assignments, exercises, projects, and learning progress across different areas of web development and programming.
 
 🔗 [View Repository](https://github.com/Yasmin3laa/trainings)
 
 ## 🧠 Problem Solving
 
-I regularly practice **Data Structures, Algorithms, and Problem Solving** to improve my programming, logical thinking, and analytical skills.
+I regularly practice **Data Structures, Algorithms, and Problem Solving** to strengthen my programming, logical thinking, and analytical skills.
 
 * Data Structures
 * Algorithms
-* Python Problem Solving
+* PHP Problem Solving
 * JavaScript Problem Solving
 
 ## 🎓 Training & Learning
 
 ### ITI — Web Development
 
-Developing practical web development skills through technical training, assignments, and projects.
+Developing practical web development skills through technical training, hands-on assignments, and real-world projects.
 
 ### NTI — Full-Stack Development
 
-Building knowledge and practical experience across frontend, backend, databases, and web development.
+Building practical knowledge across frontend development, backend development, databases, APIs, and modern web technologies.
 
 ## 🚀 Currently
 
 * 🌱 Improving my Full-Stack Web Development skills
-* 💻 Building practical web projects
-* 📚 Strengthening my JavaScript, React, Python, Django, and SQL knowledge
+* 💻 Building practical web applications with **Laravel**
+* 📚 Strengthening my **PHP, Laravel, JavaScript, React, and SQL** skills
 * 🧠 Practicing Data Structures & Algorithms
 * 🔧 Improving my Git & GitHub workflow
+* 🚀 Building projects to strengthen my portfolio
 
 ## 🎯 Goals
 
 * Build production-quality Full-Stack applications
-* Strengthen backend and API development skills
+* Strengthen PHP and Laravel backend development
+* Develop secure and scalable REST APIs
 * Improve database design and development
+* Build responsive and accessible web applications
 * Learn modern development tools and workflows
-* Build projects that solve real-world problems
-* Continuously improve my problem-solving skills
+* Create projects that solve real-world problems
+* Continuously improve my problem-solving and software development skills
 
 ## 📫 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/yasmine-3laa)
-* 🌐 **Portfolio — Coming Soon**
+* 🌐 [Portfolio](https://yasmin3laa.github.io/portfolio/)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
